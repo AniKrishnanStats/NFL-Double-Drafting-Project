@@ -1,0 +1,10 @@
+
+MULTI-YEAR TEAM IMPROVEMENT MODEL
+---------------------------------
+Average yearly EWII slope: 0.0219
+Group × Time Interactions:
+{'years_since_draft:C(grp)[T.single]': -0.027700457322788065, 'years_since_draft:C(grp)[T.zero]': -0.021251530580295414}
+
+Interpretation:
+A positive interaction indicates that double-draft teams sustain or extend
+their defensive improvement longer than single-draft teams.

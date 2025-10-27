@@ -1,0 +1,10 @@
+
+MULTI-YEAR RETENTION & IMPROVEMENT ANALYSIS
+-------------------------------------------
+Average yearly EWII slope: 0.0233
+Effect of retained rookie-class snaps: 0.0934
+
+Interpretation:
+Positive retained-snap coefficient means that teams whose original rookie DBs
+continue playing meaningful snaps in later years sustain higher improvement.
+Negative interaction terms for single/zero indicate faster decay of gains.

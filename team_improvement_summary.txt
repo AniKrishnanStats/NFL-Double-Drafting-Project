@@ -1,0 +1,18 @@
+
+TEAM IMPROVEMENT & CONTRIBUTION ANALYSIS
+----------------------------------------
+Fixed-Effects (within-team) regression controls for team and draft-year variance.
+Key effects:
+
+• Marginal effect of rookie exposure: -1.148
+• Incremental impact for double-draft teams: nan
+• Combined effect for double-draft strategy: nan
+
+Elastic-Net validation:
+  R² = 0.000
+  Top predictors: 
+
+Interpretation:
+Double-drafting teams exhibit higher average exposure but mixed efficiency.
+After controlling for team and year, incremental EWII improvement is captured primarily
+through exposure intensity, with limited additive benefit from simply drafting two DBs.

@@ -1,0 +1,8 @@
+INTERPRETATION SUMMARY
+-----------------------
+1. Exposure: Double-drafting teams see rookie DBs on field ~6% of snaps (≈2× single-draft exposure).
+2. Immediate Impact: No statistically significant short-term pass defense improvement (ANOVA p≈0.68).
+3. Weighted Model: Snap-weighted regression confirms exposure does not predict immediate success.
+4. Logistic Model: Odds ratios near 1.0 → drafting strategy has minimal short-term effect on likelihood of improvement.
+5. Interpretation: Double-drafting behaves as a "variance hedge"—high exposure, high volatility, not necessarily instant payoff.
+6. Next Step: Evaluate lag effects (rookie-year exposure vs. next-season improvement).

@@ -1,0 +1,5 @@
+Coef,Lower95,Upper95,Interpretation
+-0.016,-0.145,0.113,Baseline (Zero-drafters)
+0.035,-0.105,0.175,Difference vs zero-drafters
+0.004,-0.134,0.141,Difference vs zero-drafters
+0.0,,,Difference vs zero-drafters

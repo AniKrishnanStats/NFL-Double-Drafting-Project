@@ -1,0 +1,23 @@
+
+MULTI-YEAR TEAM IMPROVEMENT MODEL
+---------------------------------
+Base yearly slope: +0.025
+Single×year interaction: -0.029
+Zero×year interaction: -0.023
+Effect of retained snaps: +0.149
+
+L-NCI (demeaned) means:
+            mean       std  count
+grp                              
+double -0.273013  1.151152  134.0
+single  0.022156  0.842626  778.0
+zero    0.000557  0.157756  912.0
+
+SAFETY-NET MODEL
+----------------
+Coefficient (is_double): +4.183
+Odds Ratio (double vs others): 65.57
+
+Interpretation:
+If odds < 1 → double-drafting reduces the probability both rookies bust
+(<30% defensive snaps in Y+2) → diversification effect.

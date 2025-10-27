@@ -1,0 +1,10 @@
+
+SAFETY-NET MODEL SUMMARY
+------------------------
+Coefficient (Double-Draft effect): 10.348
+p-value: 0.644
+Odds Ratio: 31203.880
+
+Interpretation:
+If the coefficient is negative (<0), double-drafting lowers the odds of both players failing,
+indicating a 'safety net' diversification effect.

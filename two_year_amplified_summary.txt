@@ -1,0 +1,19 @@
+
+T+2 ANALYTIC SUMMARY
+--------------------
+Elasticity dI/dS = 0.027
+
+Mean EWII (log growth two-year):
+  Double: 0.0479
+  Single: 0.0044
+  Zero:   -0.0106
+
+Mean Defensive Snap Share (smoothed, two-year):
+  Double: 12.7%
+  Single: 10.6%
+  Zero:   1.0%
+
+Mean L-NCI (% normalized contribution):
+  Double: -0.42
+  Single: 0.19
+  Zero:   -0.07

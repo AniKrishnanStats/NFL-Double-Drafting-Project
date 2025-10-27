@@ -1,0 +1,24 @@
+
+=== TWO-YEAR TEAM IMPROVEMENT SUMMARY ===
+Double-draft teams show mean EWII = +0.048,
+single-draft = +0.004,
+zero-draft = -0.011.
+
+Average smoothed rookie snap shares:
+Double = 0.158,
+Single = 0.104,
+Zero = 0.010.
+
+Mean L-NCI values:
+Double = -0.630,
+Single = +0.250,
+Zero = -0.047.
+
+Interpretation:
+• EWII measures log improvement in pass-defense percentile over two seasons.
+• Double-draft teams improve most overall but display negative efficiency (L-NCI < 0),
+  indicating diminishing returns per rookie snap.
+• Single-draft teams achieve smaller but more efficient improvements.
+• Zero-draft teams stagnate or decline.
+
+✅ Saved: fig_two_year_ewii.png, fig_two_year_snapshare.png, fig_two_year_lnci.png

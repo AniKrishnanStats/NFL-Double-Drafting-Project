@@ -1,0 +1,27 @@
+Research Flow Summary:
+-----------------------
+1. Team-Level Mean Effects:
+   - Bootstrapped means and 95% CIs show direction of average improvement.
+   - Double-drafting: slightly negative mean, widest dispersion.
+   - Single: modest positive mean, moderate variance.
+   - Zero: near-zero mean, lowest variance.
+
+2. Volatility Analysis:
+   - Levene’s test checks unequal variances (p < 0.05 ⇒ variance differs).
+   - Double-drafting = largest standard deviation — 'boom-bust' risk.
+
+3. Weighted & Hierarchical Models:
+   - WLS corrects heteroskedasticity; mixed model captures team noise.
+   - Mean effects remain small but variance significant.
+
+4. Snap Share Augmented Models:
+   - avg_db_snap_share quantifies DB utilization.
+   - Positive coefficient ⇒ greater DB participation → stronger improvement.
+   - Interaction term shows double-drafting + high usage amplifies variance.
+
+5. Risk–Return Framing:
+   - risk_return_draft_strategies.png visualizes:
+        x = volatility (risk), y = average improvement (return)
+   - Double-drafting: high risk, high potential return.
+   - Single: moderate.
+   - Zero: low risk, low return.

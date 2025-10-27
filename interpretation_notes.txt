@@ -1,0 +1,18 @@
+Interpretation Guide:
+---------------------
+Δ Pass Defense Percentile (delta_pass_def):
+    Positive values mean a team improved its pass defense ranking from last year.
+
+Mixed-Effects Regression:
+    Tests whether double-drafting teams improve more than single/zero drafters.
+
+player_contribution:
+    Measures how much a DB (weighted by snap share) contributed to the team's overall improvement.
+
+Outputs:
+---------
+- team_improvement_regression.csv        : Regression coefficients (effect size by group)
+- bootstrapped_team_improvement.csv      : 95% confidence intervals for group means
+- player_contribution_summary.csv        : Average player-level contributions by draft group
+- team_improvement_by_group.png          : Violin + jitter plot for team improvement
+- player_contribution_scatter.png        : Scatter of snap share vs contribution

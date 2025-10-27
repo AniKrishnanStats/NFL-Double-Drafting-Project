@@ -1,0 +1,14 @@
+AMPLIFIED RESULTS SUMMARY
+--------------------------
+1. Verified logic — zero-draft teams now contribute 0%.
+2. Rookie snap share (defense only, R1–R3):
+   • Double: 6.3%
+   • Single: 3.3%
+   • Zero:   0.0%
+
+3. Normalized contribution = rookie_snap_share * team_improvement / 100
+   • Double-draft teams: -0.00% avg contribution
+   • Single-draft teams: -0.00%
+   • Zero-draft teams:   0.00%
+
+4. Amplified OLS shows per 1% increase in rookie snap share → Δ-8.28% normalized contribution.
